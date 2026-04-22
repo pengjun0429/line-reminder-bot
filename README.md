@@ -1,3 +1,3 @@
 # line-reminder-bot
 > [!IMPORTANT]
->this projsct is offline
+> This projsct is offline
